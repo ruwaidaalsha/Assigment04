@@ -1,0 +1,14 @@
+C:\Users\USER PC\OneDrive\سطح المكتب\day01\Assigment04\Assigment04\bin\Debug\net8.0\Assigment04.exe
+C:\Users\USER PC\OneDrive\سطح المكتب\day01\Assigment04\Assigment04\bin\Debug\net8.0\Assigment04.deps.json
+C:\Users\USER PC\OneDrive\سطح المكتب\day01\Assigment04\Assigment04\bin\Debug\net8.0\Assigment04.runtimeconfig.json
+C:\Users\USER PC\OneDrive\سطح المكتب\day01\Assigment04\Assigment04\bin\Debug\net8.0\Assigment04.dll
+C:\Users\USER PC\OneDrive\سطح المكتب\day01\Assigment04\Assigment04\bin\Debug\net8.0\Assigment04.pdb
+C:\Users\USER PC\OneDrive\سطح المكتب\day01\Assigment04\Assigment04\obj\Debug\net8.0\Assigment04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER PC\OneDrive\سطح المكتب\day01\Assigment04\Assigment04\obj\Debug\net8.0\Assigment04.AssemblyInfoInputs.cache
+C:\Users\USER PC\OneDrive\سطح المكتب\day01\Assigment04\Assigment04\obj\Debug\net8.0\Assigment04.AssemblyInfo.cs
+C:\Users\USER PC\OneDrive\سطح المكتب\day01\Assigment04\Assigment04\obj\Debug\net8.0\Assigment04.csproj.CoreCompileInputs.cache
+C:\Users\USER PC\OneDrive\سطح المكتب\day01\Assigment04\Assigment04\obj\Debug\net8.0\Assigment04.dll
+C:\Users\USER PC\OneDrive\سطح المكتب\day01\Assigment04\Assigment04\obj\Debug\net8.0\refint\Assigment04.dll
+C:\Users\USER PC\OneDrive\سطح المكتب\day01\Assigment04\Assigment04\obj\Debug\net8.0\Assigment04.pdb
+C:\Users\USER PC\OneDrive\سطح المكتب\day01\Assigment04\Assigment04\obj\Debug\net8.0\Assigment04.genruntimeconfig.cache
+C:\Users\USER PC\OneDrive\سطح المكتب\day01\Assigment04\Assigment04\obj\Debug\net8.0\ref\Assigment04.dll

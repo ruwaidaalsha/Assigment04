@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\05\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\05\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\05\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\05\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\05\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\05\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\04\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\04\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\04\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\04\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\04\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\04\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\03\\smarthouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\03\\smarthouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\03\\heat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\03\\heat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\03\\ac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\03\\ac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\03\\fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\03\\fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\03\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\03\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\03\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\03\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\03\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\03\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\02\\coursecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\02\\coursecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\02\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\02\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\02\\livesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\02\\livesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\02\\videocourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\02\\videocourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\02\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\02\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\01\\ticketsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\01\\ticketsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\01\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\01\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|c:\\users\\user pc\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\assigment04\\assigment04\\models\\01\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D123D4-660B-4630-91F5-C9D7412F9185}|Assigment04\\Assigment04.csproj|solutionrelative:assigment04\\models\\01\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskList.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\05\\TaskList.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\05\\TaskList.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\05\\TaskList.cs",
+              "RelativeToolTip": "Assigment04\\Models\\05\\TaskList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:14:35.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\05\\Task.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\05\\Task.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\05\\Task.cs",
+              "RelativeToolTip": "Assigment04\\Models\\05\\Task.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:13:47.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\05\\Enum.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\05\\Enum.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\05\\Enum.cs",
+              "RelativeToolTip": "Assigment04\\Models\\05\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:13:02.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\04\\Library.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\04\\Library.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\04\\Library.cs",
+              "RelativeToolTip": "Assigment04\\Models\\04\\Library.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:01:28.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\04\\Book.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\04\\Book.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\04\\Book.cs",
+              "RelativeToolTip": "Assigment04\\Models\\04\\Book.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:59:08.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\04\\Enum.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\04\\Enum.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\04\\Enum.cs",
+              "RelativeToolTip": "Assigment04\\Models\\04\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:09:15.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SmartHouse.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\03\\SmartHouse.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\03\\SmartHouse.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\03\\SmartHouse.cs",
+              "RelativeToolTip": "Assigment04\\Models\\03\\SmartHouse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:02:04.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Heat.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\03\\Heat.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\03\\Heat.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\03\\Heat.cs",
+              "RelativeToolTip": "Assigment04\\Models\\03\\Heat.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:01:10.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ac.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\03\\Ac.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\03\\Ac.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\03\\Ac.cs",
+              "RelativeToolTip": "Assigment04\\Models\\03\\Ac.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:00:33.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Fan.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\03\\Fan.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\03\\Fan.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\03\\Fan.cs",
+              "RelativeToolTip": "Assigment04\\Models\\03\\Fan.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:59:14.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Light.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\03\\Light.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\03\\Light.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\03\\Light.cs",
+              "RelativeToolTip": "Assigment04\\Models\\03\\Light.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:58:01.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InterFace.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\03\\InterFace.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\03\\InterFace.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\03\\InterFace.cs",
+              "RelativeToolTip": "Assigment04\\Models\\03\\InterFace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:57:18.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\03\\Enum.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\03\\Enum.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\03\\Enum.cs",
+              "RelativeToolTip": "Assigment04\\Models\\03\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:56:18.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CourseCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\02\\CourseCatalog.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\02\\CourseCatalog.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\02\\CourseCatalog.cs",
+              "RelativeToolTip": "Assigment04\\Models\\02\\CourseCatalog.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:46:44.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LiveSession.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\02\\LiveSession.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\02\\LiveSession.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\02\\LiveSession.cs",
+              "RelativeToolTip": "Assigment04\\Models\\02\\LiveSession.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:39:35.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VideoCourse.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\02\\VideoCourse.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\02\\VideoCourse.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\02\\VideoCourse.cs",
+              "RelativeToolTip": "Assigment04\\Models\\02\\VideoCourse.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:25:59.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\02\\Course.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\02\\Course.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\02\\Course.cs",
+              "RelativeToolTip": "Assigment04\\Models\\02\\Course.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:23:24.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\02\\Enum.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\02\\Enum.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\02\\Enum.cs",
+              "RelativeToolTip": "Assigment04\\Models\\02\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:22:19.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "enum.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\01\\enum.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\01\\enum.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\01\\enum.cs",
+              "RelativeToolTip": "Assigment04\\Models\\01\\enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T16:27:04.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TicketSystem.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\01\\TicketSystem.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\01\\TicketSystem.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\01\\TicketSystem.cs",
+              "RelativeToolTip": "Assigment04\\Models\\01\\TicketSystem.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T16:22:15.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\01\\Ticket.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Models\\01\\Ticket.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Models\\01\\Ticket.cs",
+              "RelativeToolTip": "Assigment04\\Models\\01\\Ticket.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T16:20:23.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Program.cs",
+              "RelativeDocumentMoniker": "Assigment04\\Program.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\day01\\Assigment04\\Assigment04\\Program.cs",
+              "RelativeToolTip": "Assigment04\\Program.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAcwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T16:17:52.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
